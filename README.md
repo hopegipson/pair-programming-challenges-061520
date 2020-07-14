@@ -8,4 +8,4 @@ This will give you the additional option to pull new challenges whenever they're
 
 You can now `cd` into the individual challenges, for example `cd 01-ruby-objects-build-a-sandwich`.
 
-On your local machine, whenever a new challenge gets released you can update the repo by navigating to `pair-programming-challenges-061520` and doing `git pull upstream`. You may have to commit your changes first with `git add . && git commit -m "your message here"`.
+On your local machine, whenever a new challenge gets released you can update the repo by navigating to `pair-programming-challenges-061520` and doing `git pull upstream master`. You may have to commit your changes first with `git add . && git commit -m "your message here"`.
