@@ -4,8 +4,8 @@ You've been asked to build an alien dating application! Work with  your partner 
 
 ### Deliverables:
 
-- A planet has a `name`
-- An alien has a `name`
+- A planet has a `name` X
+- An alien has a `name` X
 - Aliens belong to a `planet` instance and know which planet they reside on
 - A planet has an `#aliens` method that allows it to see all the aliens currently occupying it
 - Alien instances have a `significant_other` attribute that refers to an alien they're dating, this can be `nil` if they're not currently dating anyone
